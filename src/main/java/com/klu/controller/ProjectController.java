@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 
-@CrossOrigin(origins = "http://localhost:5173")
+@CrossOrigin(origins = "https://fsad-sdp-08-frontend-6nwq-pqxke90v0-vrrnsaisupriyas-projects.vercel.app")
 @RestController
 @RequestMapping("/projects")
 public class ProjectController {

@@ -5,7 +5,7 @@ import com.klu.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
-@CrossOrigin(origins = "http://localhost:5173")
+@CrossOrigin(origins = "https://fsad-sdp-08-frontend-6nwq-pqxke90v0-vrrnsaisupriyas-projects.vercel.app")
 @RestController
 @RequestMapping("/auth")
 public class AuthController {
